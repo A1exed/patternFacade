@@ -1,7 +1,5 @@
 package app;
 
-import java.util.Timer;
-
 public class Action {
 
     private Car car;
